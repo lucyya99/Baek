@@ -1,2 +1,4 @@
-# Baek : 백준 문제 풀이용
-<p> 현재 브론즈 문제 도전 중 </p>
+# Baek : for solving baekjoon problems
+<p> recent : challenge for acheiving bronze level! </p>
+<p> baekjoon link : https://www.acmicpc.net/ </p>
+<p> my baekjoon id : lucyya99 </p>
